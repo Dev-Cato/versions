@@ -1,1 +1,10 @@
-[]
+{
+  "cWeaponSling":{
+    "version":"1.2.3",
+    "text":"test"
+  },
+  "cGarage":{
+    "version":"1.2.3",
+    "text":"test"
+  }
+}
