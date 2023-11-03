@@ -1,10 +1,10 @@
 {
   "cWeaponSling":{
     "version":"1.2.3",
-    "text":"test"
+    "text":"Changelog: performance improved, new function\n"
   },
   "cGarage":{
-    "version":"1.2.3",
-    "text":"test"
+    "version":"",
+    "text":""
   }
 }
