@@ -6,5 +6,9 @@
   "cGarage":{
     "version":"1.0.1",
     "text":""
+  },
+  "cSimpleSling":{
+    "version":"1.0.1",
+    "text":""
   }
 }
