@@ -1,7 +1,7 @@
 {
   "cWeaponSling":{
-    "version":"1.2.3",
-    "text":"Changelog: performance improved, new function\n"
+    "version":"1.2.4",
+    "text":"Changelog: Experimental NeedTrunk config\n"
   },
   "cGarage":{
     "version":"1.0.1",
