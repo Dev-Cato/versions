@@ -10,5 +10,9 @@
   "cSimpleSling":{
     "version":"1.0.0",
     "text":""
+  },
+  "cTarget":{
+    "version":"1.0.0",
+    "text":""
   }
 }
