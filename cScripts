@@ -4,8 +4,8 @@
     "text":""
   },
   "cWeaponSling":{
-    "version":"1.2.6",
-    "text":"Changelog: Fixed some weapon models. please report any weapons that still dont show properly :)\n"
+    "version":"1.2.7",
+    "text":"Changelog: Fixed a important vehicle bug\n"
   },
   "cGarage":{
     "version":"1.0.1",
