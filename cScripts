@@ -4,8 +4,8 @@
     "text":""
   },
   "cWeaponSling":{
-    "version":"1.2.7",
-    "text":"Changelog: Fixed a important vehicle bug\n"
+    "version":"1.2.8",
+    "text":"Changelog: Fixed the Parachute bug -> only client.lua changed!\n"
   },
   "cGarage":{
     "version":"1.0.1",
