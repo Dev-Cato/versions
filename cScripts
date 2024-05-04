@@ -4,8 +4,8 @@
     "text":""
   },
   "cWeaponSling":{
-    "version":"1.3.0",
-    "text":"Changelog: Weapon-state can now be saved on restarts + visibility & collision fixes!\n"
+    "version":"1.5.0",
+    "text":"Changelog: Added support for OxInventory!\n"
   },
   "cGarage":{
     "version":"1.0.1",
