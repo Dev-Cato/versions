@@ -5,7 +5,7 @@
   },
   "cWeaponSling":{
     "version":"1.5.2",
-    "text":"1.5.0 Changelog: Added support for OxInventory!\n1.5.1 Changelog: Added support for SpPeds!\n1.5.1 Changelog: Animations will not longer stop taking cover!\n"
+    "text":"1.5.0 Changelog: Added support for OxInventory!\n1.5.1 Changelog: Added support for SpPeds!\n1.5.2 Changelog: Animations will not longer stop taking cover!\n"
   },
   "cGarage":{
     "version":"1.0.1",
